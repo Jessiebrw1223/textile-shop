@@ -1,0 +1,15 @@
+C:\dev\textile-shop\backend\TextileOasis.Application\bin\Debug\net8.0\TextileOasis.Application.deps.json
+C:\dev\textile-shop\backend\TextileOasis.Application\bin\Debug\net8.0\TextileOasis.Application.dll
+C:\dev\textile-shop\backend\TextileOasis.Application\bin\Debug\net8.0\TextileOasis.Application.pdb
+C:\dev\textile-shop\backend\TextileOasis.Application\bin\Debug\net8.0\TextileOasis.Domain.dll
+C:\dev\textile-shop\backend\TextileOasis.Application\bin\Debug\net8.0\TextileOasis.Domain.pdb
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.csproj.AssemblyReference.cache
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.AssemblyInfoInputs.cache
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.AssemblyInfo.cs
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.csproj.CoreCompileInputs.cache
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileO.CA65E3BA.Up2Date
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.dll
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\refint\TextileOasis.Application.dll
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\TextileOasis.Application.pdb
+C:\dev\textile-shop\backend\TextileOasis.Application\obj\Debug\net8.0\ref\TextileOasis.Application.dll

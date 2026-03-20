@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TextileOasis.API/TextileOasis.API.csproj" />
+  <Project Path="TextileOasis.Application/TextileOasis.Application.csproj" />
+  <Project Path="TextileOasis.Domain/TextileOasis.Domain.csproj" />
+  <Project Path="TextileOasis.Infrastructure/TextileOasis.Infrastructure.csproj" />
+</Solution>
