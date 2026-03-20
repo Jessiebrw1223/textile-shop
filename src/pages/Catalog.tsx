@@ -9,7 +9,7 @@ import type { Product } from "@/types/product";
 import { getGramaje, getProductDisplayType } from "@/utils/productDisplay";
 
 const categories = ["Todas", "Toalla de baño", "Toalla de mano", "Toalla de piso","Paquete"];
-const API_BASE_URL = "http://127.0.0.1:10000";
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL;
 
 const Catalog = () => {
   const [selectedCategory, setSelectedCategory] = useState("Todas");
