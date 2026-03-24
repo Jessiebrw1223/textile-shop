@@ -1,0 +1,11 @@
+C:\dev\textile-shop\backend\TextileOasis.Domain\bin\Debug\net8.0\TextileOasis.Domain.deps.json
+C:\dev\textile-shop\backend\TextileOasis.Domain\bin\Debug\net8.0\TextileOasis.Domain.dll
+C:\dev\textile-shop\backend\TextileOasis.Domain\bin\Debug\net8.0\TextileOasis.Domain.pdb
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.AssemblyInfoInputs.cache
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.AssemblyInfo.cs
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.csproj.CoreCompileInputs.cache
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.dll
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\refint\TextileOasis.Domain.dll
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\TextileOasis.Domain.pdb
+C:\dev\textile-shop\backend\TextileOasis.Domain\obj\Debug\net8.0\ref\TextileOasis.Domain.dll
