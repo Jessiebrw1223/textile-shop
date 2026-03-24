@@ -108,7 +108,7 @@ new Product
     Description = "Bata cómoda y elegante para spa y hotel",
     Price = 89.90m,
     Stock = 20,
-    ImageUrl = "/images/bata.jpg",
+    ImageUrl = "/images/category-robes.jpg",
     Material = "Algodón",
     IsFeatured = true,
     IsActive = true,
