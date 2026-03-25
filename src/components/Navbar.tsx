@@ -4,7 +4,7 @@ import { ShoppingBag, User, Menu, X, Search } from "lucide-react";
 import { Link, useNavigate, useLocation } from "react-router-dom";
 import { useCart } from "@/context/CartContext";
 import { useAuth } from "@/context/AuthContext";
-import logo from "@/assets/logo2.jpg";
+import logo from "@/assets/logo2.png";
 
 const navLinks = [
   { label: "Inicio", href: "/" },
