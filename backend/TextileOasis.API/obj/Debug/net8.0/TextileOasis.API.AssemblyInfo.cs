@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextileOasis.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c20f01bd54e7a3479ea0cf1f2027fa4b9cf538")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c25b12a4a948393c5a70bf7fab40581e19b28e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextileOasis.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextileOasis.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
