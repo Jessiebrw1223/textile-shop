@@ -12,7 +12,7 @@ const categories = [
   },
   {
     title: "Batas",
-    subtitle: "Bienestar envolvente",
+    subtitle: "Suavidad y elegancia",
     image: categoryRobes,
   },
   {

@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link, Navigate, Outlet, useLocation } from "react-router-dom";
 import { LayoutDashboard, Package, FolderTree, ClipboardList, Users, BarChart3, Menu, ArrowLeft } from "lucide-react";
-import logo from "@/assets/logo-textil-salas.png";
+import logo from "@/assets/logo2.png";
 import { useAuth } from "@/context/AuthContext";
 
 const menuItems = [
